@@ -1,0 +1,8 @@
+Ahh, cool, un un taxi, j'en cherchais justement un pour le conduire au resto
+§1putquick "PRIVMSG $chan :TAXIIIIII !"§2§1putquick "PRIVMSG $chan :\001ACTION arrête $nick\001"§2Conduisez moi au resto, et plus vite que ca !
+$nick, pense à compter double tarif a ton client pour travail de jour :)
+$nick, conduisez moi au resto, et vite ! :)
+§1putquick "PRIVMSG $chan :\001ACTION hèle le taxi\001"§2conduisez moi au restaurant le plus proche
+t'as une belle tuture jaune $nick ? :)
+j'espère que tu ne conduits pas comme Sami Naceri $nick :)
+$nick, conduisez moi au resto je vous prie.

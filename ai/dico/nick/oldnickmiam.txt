@@ -1,0 +1,9 @@
+c'était bon $newnick ?
+mais pourquoi tu ne m'as pas donné ma part $newnick ??
+rahh, mais quel cuisinier ce $newnick, c'était rudement bon.
+déjà fini de manger $newnick ?
+miam. un p'tit dessert maintenant $newnick ?
+une p'tite sieste digestive $newnick ?
+miam, c'était rudement bon $newnick. je reviendrai manger chez toi :)
+\001ACTION §1 putquick "PRIVMSG $chan :Burrp !"§2tient à dire que le dernier repas fait par $newnick était très bon\001
+Burppp. merci pour ce repas $newnick, c'était rudement bon

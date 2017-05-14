@@ -1,0 +1,17 @@
+* non
+non *
+* non *
+* no
+no *
+* no *
+* nan
+nan *
+* nan *
+pas *
+* pas
+* pas *
+* plus
+* plus *
+plus *
+non
+no

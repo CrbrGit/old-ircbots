@@ -1,0 +1,6 @@
+tu m'emmènes $nick ?
+j'peux v'nir $nick ? juste toi et moi en amoureux :=)
+qu'est ce que tu vas voir de beau $nick ?
+tain, c'est dingue le temps qu'il passe au ciné ce $nick :)
+\001ACTION §1putquick "PRIVMSG $chan :pense a prendre 2 places $nick, j'arrive"§2enfile son manteau (fait froid des fois au ciné)\001
+ahhh, $newnick, tu m'offriras le pop-corn au ciné ? :)

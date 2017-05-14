@@ -1,0 +1,6 @@
+<?  bouffe = strstr(manger, frigo); fopen('$botnick', a); fput($bouffe, $botnick); ?>  :) moi aussi je sais le faire $nick
+Quel chti programmeur ce $nick
+Visual Basic + ASP + Microsoft Basic + Visual C++ ... et après on s'étonne d'avoir des bugs ... tsss tsss, n'est ce pas $nick
+01001111011111101110101010101111111111111000111101110111101111 oops :) désolé ca m'a échappé $nick
+qu'est ce que tu programmes $nick ?
+tiens, $nick, toi qui programme, tu ne voudrais pas améliorer mon IA ? :)

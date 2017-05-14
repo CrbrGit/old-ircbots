@@ -1,0 +1,10 @@
+si tu boudes $nick, je boude aussi
+allez, ca sert a rien de bouder $nick
+Voila, je boude aussi. tu l'auras voulu $nick
+\001ACTION boude aussi\001
+bouhhh, allez, je boude moi
+tiens, voila du boudin, voila du boudin... a non, pardon, du boudeur :)
+tiens, voila du boudin, voila du boudin... a non, pardon, du boudeur :)
+\001ACTION §1putquick "PRIVMSG $chan :rahhh, ca va être de ma faute si $nick boude encore.. je le sens..."§2 boude aussi, comme ca on lui dira rien\001
+et vlan, encore un boudeur !
+bon, si toi aussi tu te mets à bouder $nick, je vais m'y mettre aussi, tu vas voir, ca va faire mal...

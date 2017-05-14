@@ -1,0 +1,42 @@
+* pas *beau
+* pas *beau *
+* pas *beaux
+* pas *beaux *
+* pas *belle
+* pas *belle *
+* pas *belles
+* pas *belles *
+* hideux
+* hideux *
+* hideuse
+* hideuse *
+* hideuses
+* hideuses *
+* horrible
+* horrible *
+* horribles
+* horribles *
+* affreux
+* affreux *
+* affreuse
+* affreuse *
+* affreuses
+* affreuses *
+* immonde
+* immonde *
+* immondes
+* immondes *
+* degoutant
+* degoutant *
+* degoutante
+* degoutante *
+* degoutants
+* degoutants *
+* degoutantes
+* degoutantes *
+* moche
+* moche *
+* moches
+* moches *
+* horreur
+* horreur *

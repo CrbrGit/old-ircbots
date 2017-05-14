@@ -1,0 +1,43 @@
+FAQ rapide sur les questions indirectes:
+
+
+* Kezako ce truc ?
+
+  Il s'agit en fait de mots sur lesquels reagit le bot. il entend un de ces
+  mots, et il donne la reaction qui va avec.
+
+
+* Pourquoi indirect alors ?
+
+  Parceque il ne s'agit pas de réactions on on s'adresse directement au bot
+  par son nom, il s'agit du bot qu reagit a un mot qui ne lui était pas
+  directement dédié.
+
+
+* Comment sont organisés les fichiers :
+
+  Chaque type de réaction est composé de 2 parties :
+
+  - trigX.txt qui contient les mots qui appellent cette réaction précisent
+    (il peut s'agit d'expressions régulières)
+
+  - ansX.txt qui contient les reponses possible pour cette réaction.
+    Une ligne = une réponse possible
+    On doit avoir un minimum de 2 réponses (obligatoirement).
+    Qi vous voulez utiliser les caractères [ et ] pour faire faire une
+    fonction spéciale au bot, mettez §1 et §2 dans vos fichiers.
+
+
+* Comment modifier une reaction ?
+
+  Modifier simplement les fichiers
+
+
+* Comment ajouter une reaction ?
+
+  Créer simplement les fichiers trigXY.txt et ansXY.txt avec
+  XY qui devra se retrouver dans la variable ai(indirbase) dans le
+  fichier ai.conf
+
+
+      rebrec

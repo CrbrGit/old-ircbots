@@ -1,0 +1,5 @@
+$nick, il est §1exec date "+%kh %M"§2
+§1exec date "+%kh %M"§2
+il est §1exec date "+%kh %M"§2
+§1exec date "+%kh %M"§2, $nick
+il doit etre a peu pres §1exec date "+%kh %M"§2

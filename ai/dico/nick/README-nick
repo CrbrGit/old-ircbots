@@ -1,0 +1,50 @@
+FAQ rapide sur les reponses aux changements de nick:
+
+
+* Kezako ce truc ?
+
+  Le bot ragit quand les personnes changent de nickname.
+  Il reagit sur le nouveau nick des personnes et aussi sur l'ancien.
+
+
+* Comment sont organisés les fichiers :
+
+  Chaque type de réaction est composé de 3 parties :
+
+  - trigX.txt qui contient les nicks qui appellent cette réaction précisent
+    (il peut s'agit d'expressions régulières)
+
+  - newnickX.txt qui contient les reponses possible si l'expression dans
+    trigX.txt correspond à votre nouveau nick.
+    Une ligne = une réponse possible
+    On doit avoir un minimum de 2 réponses (obligatoirement).
+    Qi vous voulez utiliser les caractères [ et ] pour faire faire une
+    fonction spéciale au bot, mettez §1 et §2 dans vos fichiers.
+
+  - oldickX.txt qui contient les reponses possible si l'expression dans
+    trigX.txt correspond à votre ancien nick.
+    Une ligne = une réponse possible
+    On doit avoir un minimum de 2 réponses (obligatoirement).
+    Qi vous voulez utiliser les caractères [ et ] pour faire faire une
+    fonction spéciale au bot, mettez §1 et §2 dans vos fichiers.
+
+
+* Comment modifier une reaction ?
+
+  Modifier simplement les fichiers
+
+
+* Comment ajouter une reaction ?
+
+  Créer simplement les fichiers trigXY.txt et newnickXY.txt et/ou 
+  oldnickXY.txt avec XY qui devra se retrouver dans la variable
+  ai(nickbase) dans le fichier ai.conf
+
+* Pourquoi parfois il n'y a que 2 des 3 fichiers
+
+  Dans certains cas, le bot ne reagira que s'il s'agit du nouveau nick
+  de la personne (ou de l'ancien)
+
+
+
+      rebrec

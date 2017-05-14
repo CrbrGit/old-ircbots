@@ -1,0 +1,7 @@
+he hi, he ho, on rentre du boulot, he hi he ho he ho he hi... nan, je déconne, TU rentres du boulot $nick, moi je bosses pas :)))
+he hi, he ho, on rentre du boulot, he hi he ho he ho he hi
+ahh, ca fait du bien d'avoir fini de travailler. pas vrai $newnick ? :)
+feignant, déjà fini le boulot $newnick ? :)
+le travail, c'est la santé $newnick, j'espère que tu as bien travaillé (nan, j'déconne :)
+pas trop dur la journée de travail $newnick ?
+§1putserv "PRIVMSG $chan :\001ACTION admire $newnick qui a réussi à supporter une journée de travail complète\001"§2(mais bon, j'rigole, parce qu'il va falloir que tu recommences demain mon pauvre :)

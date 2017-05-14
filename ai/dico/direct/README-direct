@@ -1,0 +1,30 @@
+FAQ rapide sur les questions directes:
+
+
+* Kezako ce truc ?
+
+  Il s'agit en fait de mots sur lesquels reagit le bot lorsque on s'addresse
+  à lui. Il entend un de ces mots ainsi que son nick, et il donne la reaction
+  qui va avec.
+
+
+* Pourquoi direct alors ?
+
+  Parceque il ne s'agit de réactions ou on s'adresse directement au bot pas
+  son nom, il s'agit du bot qu reagit a un mot qui lui était directement
+  dédié.
+
+
+* Quels types de reactions sont possibles :
+
+  - Les reactions intelligentes : si le bot reconnait un mot special, il
+    donne la bonne reaction. Plus de details dans le fichier readme dans
+    le dossier intelligent
+
+  - Les reactions idiotes : lorsque le bot entend son nick mais ne comprend
+    rien, alors il dit une betise.
+    La liste des betises se trouve dans le fichier dump.txt
+
+
+
+      rebrec

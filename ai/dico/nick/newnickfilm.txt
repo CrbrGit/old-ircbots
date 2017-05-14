@@ -1,0 +1,21 @@
+attention $nick, la TV, ça rend bête
+ralala, toujours devant son écran de TV ce $nick
+bon film $nick
+qu'est-ce que tu regardes de beau $nick ?
+c'est bien ce que tu regardes $nick ?
+j'peux venir voir avec toi $nick ?
+ahh, coool $nick. qu'est ce qu'on va se regarder tous les 2 ? :)
+\001ACTION §1putquick "PRIVMSG $chan :tiens, g bien envie de me faire un film aussi"§2s'incruste chez $nick\001
+Bon film $nick
+T'est sur que ce film est de ton ages $nick ?
+$nick va encore regarder un film X je suis sur
+Ne regarde pas de film d'horreur $nick sinon tu vas encore faire des cauchemars
+Attention y partait que la TV ca abruti $nick
+C'est quoi comme film $nick ?
+Je peux venir voir $nick?
+Tu me laisses voir stp $nick
+$nick, je paie la beer, si tu me fais une place!
+Fais moi une petite place $nick.......
+Je viens voir aussi, si tu promets de ne pas me draguer $nick!
+Ah non! Encore un film d'amour ! tu peux pas mettre un peu de XXX $nick ! pour me faire plaisir :)
+Les documentaires sur les bûcherons du Québec, j'y comprends rien $nick, y a un décodeur ?

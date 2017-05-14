@@ -1,0 +1,5 @@
+bon bain $nick
+bonne douche $nick
+oh, un bain. j'peux venir $nick ? :)
+ah ouais, bonne idée la douche $nick, ça commençait à puer sur le chan
+j'peux venir te frotter le dos $nick ? :)

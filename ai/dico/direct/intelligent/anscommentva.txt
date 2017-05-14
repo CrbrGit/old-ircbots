@@ -1,0 +1,22 @@
+ça va bien, merci
+bien et toi $nick ?
+bien bien. merci
+ça peut aller. et toi $nick ?
+ahh, content de voir enfin un humain qui s'intéresse a la santé du bot que je suis :))
+§1putquick "PRIVMSG $chan :\001ACTION va bien.\001"§2et toi $nick ?
+bien et toi ?
+et toi $nick ?
+bof bof bof, ça va pas fort moi
+ça gaze merci. et toi ?
+plutot bien merci $nick. et toi ?
+moi ca gaze
+super cool. et toi $nick ?
+la vie est belle.
+bien bien
+super. et toi $nick ?
+ben ca pourrait aller mieux a dire vrai $nick
+mouaif, bof bof...
+on fait aller 
+ca va ca va et toi ?
+un peu fatigué (faut que j'arrete de faire des fêtes moi..) mais sinon, ca roule :)
+Et si on arretait ces politesses inutiles $nick... qu'est ce que tu en penses ?

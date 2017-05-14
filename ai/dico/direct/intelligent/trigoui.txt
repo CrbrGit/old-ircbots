@@ -1,0 +1,31 @@
+vi *
+* vi *
+* vi
+oui *
+* oui *
+* oui
+ouai *
+* ouai *
+* ouai
+yes *
+* yes *
+* yes
+accord *
+* accord *
+* accord
+ok *
+* ok *
+* ok
+o.k. *
+* o.k. *
+* o.k.
+o.k *
+* o.k *
+* o.k
+vi
+oui
+ouai
+yes
+ok
+o.k
+o.k.

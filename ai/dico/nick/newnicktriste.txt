@@ -1,0 +1,5 @@
+allez, sois pas triste $nick
+\001ACTION est triste aussi à cause de $nick\001
+arrête d'être triste $nick, sinon, je vais raconter une connerie
+\001ACTION fait une grosse grimace à $nick pour le faire rigoler\001
+§1putquick "PRIVMSG $chan :\001ACTION se creuse la tête pour sortir une blague qui plairait à $nick pour lui redonner le sourire\001"§2§1blague:ecritchan "" "" "" $chan ""§2voila

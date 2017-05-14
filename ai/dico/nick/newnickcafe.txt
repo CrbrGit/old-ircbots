@@ -1,0 +1,6 @@
+tu m'en sers une tasse $nick ?
+ralala, regardez moi cet acro au café de $nick
+t'en est a ton combientième café de le journée $nick ?
+c'est pas sérieux tout ce café $nick, tu vas finir par attraper un ulcère :(
+tain, mais comment vous faites pour dormir avec tout ce café les gars ??
+\001ACTION ne veut pas de café, ça empêche de dormir\001

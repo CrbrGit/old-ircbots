@@ -1,0 +1,6 @@
+ahh, c'est passé le gros chagrin $newnick ?
+cooool, $newnick n'est plus triste
+ahh, j'suis bien content que $newnick ne soit plus triste :))))
+§1putquick "PRIVMSG $chan :\001ACTION fait un grand sourire.\001"§2cool, $newnick n'est plus triste :)
+pourquoi tu étais triste $newnick ?
+ouaiiiiiii, fini $nick, vive $newnick :)))))

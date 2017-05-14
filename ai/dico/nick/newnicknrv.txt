@@ -1,0 +1,7 @@
+allez, du calme $nick
+dis donc $nick, et si je m'énervais moi aussi
+pourquoi tu t'énerves $nick ?
+ralala, regardez moi cet excité de $nick qui s'énerve au moindre problème
+tu sais $nick, ce n'est pas en t'énervant que tu résoudra tes problèmes
+\001ACTION s'éloigne du trajet de $nick§1putserv "PRIVMSG $chan :\001ACTION ne veut pas se se prendre un coup\001"§2\001
+et vlan, un énervé de plus... décidément $nick, tu devrais te calmer. c'est pas bon pour ton ulcère.

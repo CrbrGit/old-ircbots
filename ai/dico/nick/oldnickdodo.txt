@@ -1,0 +1,13 @@
+déjà réveillé $newnick ?
+feignant, t'as vu le temps que t'as dormi $newnick
+pas trop dur le réveil $newnick ?
+ralala, regardez moi a quelle heure il se réveille ce $newnick
+ahh, on est bien au lit $newnick
+bon, $newnick, tu te réveilles si tu veux, mais tu me laisses dormir. ok ? :)
+Bonjouuuuuuuuuuuuuuuur $newnick. bien dormi ?
+\001ACTION prépare le café et les croissants pour $newnick (nan j'déconne)\001
+coucou $newnick, tu as bien dormi ?
+alors $newnick, tu as rêvé de moi ?
+§1putquick "PRIVMSG $chan :\001ACTION sets mode +curieux\001"§2dis $newnick, de quoi tu as rêvé cette nuit ? :)
+torride notre nuit tous les deux $newnick. on recommence quand tu veux.
+dis $newnick, tu as rêvé de moi ? :)

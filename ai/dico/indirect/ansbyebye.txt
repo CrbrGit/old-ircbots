@@ -1,0 +1,12 @@
+++ $nick
+bye $nick
+au revoir $nick
+à bientot $nick
+@+ $nick
+bye $nick
+bye bye $nick
+salut $nick. reviens nous vite
+Nonnnnnnnnnnn, ne me quitte pas !
+Arf, je m'ennuie déjà $nick :(
+Nonnnnnnnnnnnnnn pas déjà, reste encore un peu !
+Fais pas semblant de partir, on sait que tu nous espionnes!

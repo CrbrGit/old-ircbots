@@ -1,0 +1,9 @@
+bot *
+* bot
+* bot *
+bots *
+* bots
+* bots *
+robot *
+* robot
+* robot *

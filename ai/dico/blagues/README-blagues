@@ -1,0 +1,32 @@
+FAQ rapide sur les blagues :
+
+
+* Comment ajouter une blague a la liste ?
+
+  - dans une categorie existante :
+  selectionner une categorie existante, et rajoutez la en fin de fichier
+
+  - dans une nouvelle categorie :
+  creer le fichier categorie.txt
+  la 1iere ligne du fichier est reservée pour mettre un prefixe qui indique le 
+  type de blague (peut etre une ligne vide)
+  les autres lignes contiendront les blagues, proverbes ou autres
+  ajouter dans ai.tcl la categorie en question dans la variable ai(blaguebases)
+
+
+* Cas special du nonblagues.txt :
+
+  mettre la dedant les reactiosn du bots qu'il peut sortir de temps en temps
+  genre un "j'me fait fait chier la" qui en sont pas des blagues
+  il n'y a pas de ligne d'entete dans ce fichier !
+
+
+* Pourquoi les blagues sont elles aussi nulles ?
+
+  bonne question, il faudrait la poser au createur du fameux carambar.
+  rien ne vous empeche de les remplacer par de meilleurs blagues et de nous
+  les envoyer
+
+
+
+      rebrec

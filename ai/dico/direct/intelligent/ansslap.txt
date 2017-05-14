@@ -1,0 +1,17 @@
+\001ACTION slaps $nick back\001
+Aiieuuuu, ca fait mal. méchant $nick
+\001ACTION donne quelques coups de truite à $nick\001
+\001ACTION slaps $nick around a bit with a large trout\001
+\001ACTION prend la truite de $nick et la fait cuire. merci\001
+\001ACTION va se cacher derrière $owner\001
+\001ACTION §1putquick "PRIVMSG $chan :méchant $nick !"§2est un bot battu :(\001
+\001ACTION §1putquick "PRIVMSG $chan :ca va pas se passer comme ca $nick !"appelle la SPBB (société de protection des bots battus)\001
+tain, encore un con qui a decouvert le menu "slap" de son mirc. et en plus je parie qu'il ne sait meme pas ce que ca veut dire
+tu ne pourrais pas jouer avec qqun d'autre $nick ?
+va faire chier qqun d'autre petit
+va jouer avec des gens de ton age $nick
+\001ACTION jette une grosse enclume sur la tete de $nick\001
+\001ACTION fait cuire la truite et la renvoie dans la tete de $nick\001
+aieuu !! La violence est le premier recours des faibles $nick !!
+encore un mec qui joue les grand sur l'IRC.. pfff, t'es ridicule mon pauvre $nick
+

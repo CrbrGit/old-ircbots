@@ -1,0 +1,24 @@
+bon app $nick
+tu peux mettre une assiette de plus pour moi $nick ? j'ai la flemme de faire la cuisine :)
+miam $nick, merci d'avoir préparé à bouffer pour tout le monde
+heee, mais ca a l'air bon $nick, j'en veux
+une p'tite part pour moi $nick ? :))
+bon appétit a toi
+ralala, voila. maintenant, j'ai faim aussi
+par ta faute, j'ai faim maintenant. tu m'en files un peu $nick ? :)
+miam, ca a l'air bon $nick
+bon appétit $nick
+je peux en avoir un peu $nick ?
+§1putquick "PRIVMSG $chan :$nick, tu sais que je t'ai toujours considéré comme mon meilleur ami..."§2§1putquick "PRIVMSG $chan :\001ACTION fait un sourir angélique\001"§2alors donne moi un petit peu (beaucoup même, après tout nous sommes d'excellents amis) de cette nourriture 0:-)
+mange pas trop $nick
+Dévalisée pas trop ton frigo $nick
+Bon appétit $nick
+Hey :o/ j'ai faim moi aussi $nick
+C'est gentil de me préparer à manger $nick
+Hmmm $nick, ca sent bon d'ici
+Y'a quoi de bon à manger $nick ?
+Mets 2 assiettes plutôt qu'une $nick, j'arrive
+Cool, c'est l'heure de la bouffe
+Zut, tu vas encore tout bouffer $nick. tu m'en laisses un peu ? !)
+Hmmmm, j'ai faim moi aussi $nick !
+ca sent bon. qu'est ce qu'il y a à manger $nick ?

@@ -1,0 +1,10 @@
+c'était bien $newnick ?
+t'as été voir quoi $newnick ?
+alors, comment était le film $newnick ?
+ralala, toujours fourré au ciné ce $newnick... :)
+$newnick, alors, comment était le film ?
+tu as vu un bon film $newnick ?
+\001ACTION a bien aimé le film en compagnie de $oldnick\001
+§1putquick "PRIVMSG $chan :merci de m'avoir emmené au ciné $newnick."§2§1putquick "PRIVMSG $chan:\001ACTION fait un gros bisou à $newnick\001"§2on recommence quand ?
+c'était quoi déjà le film que tu es allé voir $newnick ?
+ouahhh, soporifique ce film $newnick. la prochaine fois que tu m'emmènes au ciné, essaye de mieux choisir le film. merci

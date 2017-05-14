@@ -1,0 +1,104 @@
+slt
+kikoo
+kikou
+'jour
+yop
+yop yop
+yopyop
+glop
+'lo
+'lu
+'lut
+lo'
+lu'
+lut'
+lo
+jour
+hello
+hi
+hey
+salut
+plop
+lut
+lu
+bonjour
+glop
+coucou
+* slt
+* kikoo
+* kikou
+* 'jour
+* yop
+* yop yop
+* yopyop
+* glop
+* 'lo
+* 'lu
+* 'lut
+* lo'
+* lu'
+* lut'
+* lo
+* jour
+* hello
+* hi
+* hey
+* salut
+* plop
+* lut
+* lu
+* bonjour
+* glop
+* coucou
+slt *
+kikoo *
+kikou *
+'jour *
+yop *
+yop yop *
+yopyop *
+glop *
+'lo *
+'lu *
+'lut *
+lo' *
+lu' *
+lut' *
+lo *
+jour *
+hello *
+hi *
+hey *
+salut *
+plop *
+lut *
+lu *
+bonjour *
+glop *
+coucou *
+* slt *
+* kikoo *
+* kikou *
+* 'jour *
+* yop *
+* yop yop *
+* yopyop *
+* glop *
+* 'lo *
+* 'lu *
+* 'lut *
+* lo' *
+* lu' *
+* lut' *
+* lo *
+* jour *
+* hello *
+* hi *
+* hey *
+* salut *
+* plop *
+* lut *
+* lu *
+* bonjour *
+* glop *
+* coucou *
